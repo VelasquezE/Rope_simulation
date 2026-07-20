@@ -8,10 +8,9 @@
 </p>
 <p align="center"> Simulation of a rope under the effect of gravity </p>
 
-
-<img width="540" height="540" alt="compressed_vertical_rope" src="https://github.com/user-attachments/assets/d72ea85a-7a8c-4f46-ab0d-9762c4777df2" />
-
-
+<p align="center">
+  <img width="540" height="540" alt="compressed_vertical_rope" src="https://github.com/user-attachments/assets/d72ea85a-7a8c-4f46-ab0d-9762c4777df2" />
+</p>
 
 Final project for Introduction to C++ and Numerical Methods. GitHub repository: https://github.com/VelasquezE/Rope_simulation.
 
