@@ -27,7 +27,7 @@
 - [Building Instructions](#building-instructions)
 - [References](#references)
 
-# Implementation
+## Implementation
 
 ## Folder Structure
 
