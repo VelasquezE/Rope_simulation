@@ -1,9 +1,10 @@
 <h1 align="center"> Rope simulation </h1>
 
-![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge) 
-
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge">
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=fff&style=for-the-badge">
+  <img src="https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=fff&style=for-the-badge">
+  <img src="https://madebyhuman.iamjarl.com/badges/made-white.svg)](https://madebyhuman.iamjarl.com">
 </p>
 
 <p align="center"> Simulation of a rope under the effect of gravity </p>
