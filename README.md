@@ -25,13 +25,48 @@
 - [Implementation](#implementation)
 - [Folder Structure](#folder-structure)
 - [Building Instructions](#building-instructions)
+- [Future work](#future-work)
 - [References](#references)
 
 ## Implementation
 
 ## Folder Structure
 
-Estructura acá
+```text
+Rope_simulation
+├── dependencies/          # Third-party libraries (GLFW, GLAD, GLM, KHR)
+├── src/
+│   ├── physics/           # Rope physics and numerical integration
+│   │   ├── constraints_JakobsenMethod.*
+│   │   ├── systemDynamics.*
+│   │   └── updatePositions_verletIntegration.*
+│   │
+│   ├── shaders/           # GLSL shader programs
+│   │
+│   ├── rendering.*        # Rendering pipeline and OpenGL drawing
+│   ├── libraries.h        # External library includes
+│   ├── glad.c             # OpenGL loader source
+│   └── main.cpp           # Application entry point
+│
+├── CMakeLists.txt         # Build configuration
+└── README.md
+```
+
+### Description
+
+- **dependencies/** – Contains all third-party libraries required to build the project. No additional downloads are needed.
+
+- **physics/** – Implements the rope simulation using Verlet integration and Jakobsen's constraint relaxation method.
+
+- **shaders/** – GLSL vertex and fragment shaders used for rendering.
+
+- **rendering.cpp / rendering.h** – Handles OpenGL rendering, drawing routines, and visualization.
+
+- **main.cpp** – Initializes the application, creates the simulation, and manages the main loop.
+
+- **CMakeLists.txt** – Defines the build configuration using CMake.
+
+## Future work
 
 ## Building Instructions
 
