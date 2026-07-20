@@ -1,4 +1,4 @@
-# Rope simulation
+<p align="center"># Rope simulation</p>
 Final project for Introduction to C++ and Numerical Methods. GitHub repository: https://github.com/VelasquezE/Rope_simulation.
 
 ### General objective
