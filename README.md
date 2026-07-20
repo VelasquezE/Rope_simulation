@@ -1,4 +1,4 @@
-<p align="center"># Rope simulation</p>
+<h1 align="center"> Rope simulation </h1>
 Final project for Introduction to C++ and Numerical Methods. GitHub repository: https://github.com/VelasquezE/Rope_simulation.
 
 ### General objective
