@@ -2,6 +2,10 @@
 
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge) 
 
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge">
+</p>
+
 <p align="center"> Simulation of a rope under the effect of gravity </p>
 
 
