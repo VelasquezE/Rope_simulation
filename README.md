@@ -15,10 +15,9 @@
 
 | | |
 |---|---|
-| **Technologies** | C++, OpenGL, CMake |
 | **Concepts** | Verlet Integration, Constraints, Real-time Simulation |
-| **Status** | Completed |
 | **Context** | Introduction to C++ and Numerical Methods course |
+| **Status** | Completed |
 
 
 Final project for Introduction to C++ and Numerical Methods. GitHub repository: https://github.com/VelasquezE/Rope_simulation.
