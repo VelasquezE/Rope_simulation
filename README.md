@@ -13,6 +13,14 @@
   <img width="400" height="400" alt="horizontal_rope" src="https://github.com/user-attachments/assets/71f2ccd4-bd5e-461d-a086-079a0ad4ff21" width = "45%">
 </p>
 
+| | |
+|---|---|
+| **Technologies** | C++, OpenGL, CMake |
+| **Concepts** | Verlet Integration, Constraints, Real-time Simulation |
+| **Status** | Completed |
+| **Context** | Introduction to C++ and Numerical Methods course |
+
+
 Final project for Introduction to C++ and Numerical Methods. GitHub repository: https://github.com/VelasquezE/Rope_simulation.
 
 ### General objective
