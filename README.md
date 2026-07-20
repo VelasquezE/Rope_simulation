@@ -27,7 +27,7 @@
 - [Building Instructions](#building-instructions)
 - [References](#references)
 
-## Implementation
+# Implementation
 
 ## Folder Structure
 
@@ -43,7 +43,7 @@ All relevant libraries are found in /dependencies. It is necessary to download a
 It is necessary to have CMake, Git and the required packages: Using root (sudo) and type ```apt-get install libsoil-dev
 libglm-dev libglew-dev libglfw3-dev```
 
-### Build through CMake command line:
+#### Build through CMake command line:
 ```
 cd /path/to/Rope_simulation
 mkdir build && cd build
