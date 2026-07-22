@@ -25,7 +25,6 @@
 - [Implementation](#implementation)
 - [Folder Structure](#folder-structure)
 - [Building Instructions](#building-instructions)
-- [Future work](#future-work)
 - [References](#references)
 
 ## Implementation
@@ -69,8 +68,6 @@ Rope_simulation
 - **main.cpp** – Initializes the application, creates the simulation, and manages the main loop.
 
 - **CMakeLists.txt** – Defines the build configuration using CMake.
-
-## Future work
 
 ## Building Instructions
 
