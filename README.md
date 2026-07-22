@@ -87,19 +87,3 @@ make
 ```
 ## References
 1. R. Badea, *[Owlree—Simulating a Rope (Games Series)](https://owlree.blog/posts/simulating-a-rope.html)*. Accessed: Apr. 4, 2024.
-
-   
-
-Final project for Introduction to C++ and Numerical Methods. GitHub repository: https://github.com/VelasquezE/Rope_simulation.
-
-### General objective
-Simulate a rope under the effect of gravity and the inner interactions between the segments. 
-
-### Specific objectives
-1. Install and get familiarize with the necessary libraries for rendering the rope with OpenGL
-2. Visualize the system of particles as an static rope
-3. Implement the Verlet integration method for updating the positions of the points that make up the rope
-4. Implement the constraint between segments using the Jakobsen method
-5. Visualize the movement of the rope using OpenGL and allowing the interaction with the user
-
-
