@@ -30,6 +30,9 @@
 
 ## Implementation
 
+<p align="center">
+  <img src="images/flow_diagram.svg" width="350">
+</p>
 
 ## Folder Structure
 
