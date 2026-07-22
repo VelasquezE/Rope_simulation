@@ -9,8 +9,8 @@
 <p align="center"> Simulation of a rope under the effect of gravity </p>
 
 <p align="center">
-  <img width="400" height="400" alt="compressed_vertical_rope" src="images/vertial_rope.GIF" width = "45%">
-  <img width="400" height="400" alt="horizontal_rope" src="horizontal_rope.GIF" width = "45%">
+  <img width="400" height="400" alt="compressed_vertical_rope" src="images/vertical_rope.GIF" width = "45%">
+  <img width="400" height="400" alt="horizontal_rope" src="images/horizontal_rope.GIF" width = "45%">
 </p>
 
 | | |
